@@ -1,5 +1,6 @@
 # Hola 💬
-![logo1](https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b)
+![logo1](![461744600_835311765471788_3104790452593298897_n](https://github.com/user-attachments/assets/c3327ff2-1046-489f-a08d-8a5258d3926f)
+)
 
 Soy un ingeniero de sistemas apasionado por hacer que el mundo sea diferente, y aunque no lo eh logrado, sueño con un día cambiar eso.
 
